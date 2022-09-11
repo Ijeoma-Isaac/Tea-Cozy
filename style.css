@@ -94,3 +94,43 @@ div.mission {
 #tea_img p {
     margin-bottom: -10vh;
 }
+
+.bottom div {
+    display: inline-block;
+    margin: 5vh;
+    margin-bottom: 50px;
+}
+
+.top div {
+    display: inline-block;
+    margin-top: 15vh;
+    margin-left: 10vh;
+    margin-bottom: 20px;
+}
+
+
+#pics img {
+    width: 300px;
+    height: 200px;
+}
+
+#locations {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.locations_container {
+    position: absolute;
+    margin-left: 15vw;
+    margin: 15vw;
+}
+
+.locations {
+    display: inline-block;
+    background-color: black;
+    margin: 4px;
+    padding: 1rem;
+    width: 300px;
+    text-align: center;
+    opacity: 1;
+}
