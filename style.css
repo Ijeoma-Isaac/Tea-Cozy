@@ -36,3 +36,41 @@ header img {
     margin-right: 60px;
     width: 20%;
 }
+
+h1 {
+    text-align: left;
+    margin-left: 10px;
+    font-size: 50px;
+}
+
+li {
+    padding: 1.2rem;
+}
+
+li a:link {
+    text-decoration: underline;
+    color: seashell;
+}
+
+img {
+    width: 100vw;
+    height: 700px;
+}
+
+#missions {
+    box-sizing: border-box;
+    background-color: black;
+    text-align: center;
+    height: 90vh;
+    padding-top: 50px;
+    margin-bottom: 30vh;
+}
+
+div.mission {
+    position: absolute;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    margin-top: 40vh;
+    padding: 1rem;
+}
